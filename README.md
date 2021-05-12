@@ -1,16 +1,11 @@
-### Hi there 👋
+### About Me
+- My name is Coleton O'Donnell. I am a Senior at FLVS and love programming, data hoarding, advocating for privacy, and all things Linux. I am working to become a Software Developer.
+- I program in Python and Rust primarily, but know C++ and Java as well. I am working on learning as much programming theory as I can currently.
 
-<!--
-**coletonodonnell/coletonodonnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact Me
+- [My Site](https://coleton.io)
+- [Public Key](https://coleton.io/publickey.txt)
+- Email: `contact@coleton.io`
+- Reddit: `u/coletonodonnell`
+- Twitter: `@coletonodonnell`
+- Discord: `@Pastenseolith#0001`
