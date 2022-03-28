@@ -5,8 +5,9 @@
 ### Contact Me
 - [My Site + Blog](https://coleton.io)
 - [Public Key](https://coleton.io/publickey.txt)
-- Email: `contact@coleton.io`
-- Reddit: `u/coletonodonnell`
-- Twitter: `@coletonodonnell`
+- [LinkedIn](https://www.linkedin.com/in/coleton-odonnell)
+- [Email](mailto:contact@coleton.io): `contact@coleton.io`
+- [Reddit](reddit.com/u/coletonodonnell): `u/coletonodonnell`
+- [Twitter](https://twitter.com/coletonodonnell): `@coletonodonnell`
 
 [![Coleton O'Donnell's GitHub stats](https://github-readme-stats.vercel.app/api?username=coletonodonnell&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
